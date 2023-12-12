@@ -7,7 +7,7 @@ const OrderSummary = () => {
 
   return (
     <div>
-      <h2> Order Summary</h2>
+      <h2> Order  Summary</h2>
       <button onClick={()=>navigate(-1)} >Back</button>
 
     </div>
